@@ -1,0 +1,16 @@
+{
+  "id": "e8c45ae7-1234-1234-1234-123456789abc",
+  "name": "HelloWorldExtension",
+  "publisher": "DummyPublisher",
+  "version": "1.0.0.0",
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "runtime": "11.0",
+  "target": "Cloud",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
