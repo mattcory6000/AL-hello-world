@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BC Sandbox",
+            "type": "al",
+            "request": "launch",
+            "server": "https://businesscentral.dynamics.com",
+            "serverInstance": "Sandbox",
+            "authentication": "UserPassword",
+            "startupObjectType": "Page",
+            "startupObjectId": 21
+        }
+    ]
+}
